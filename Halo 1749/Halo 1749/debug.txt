@@ -1,0 +1,642 @@
+
+
+08.16.01 11:31:44  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 11:31:44  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 11:31:47  Timing for copying last cache file:
+08.16.01 11:31:47  	Total read thread file time: 4236663
+08.16.01 11:31:47  	Total read thread blocked time: 3614047
+08.16.01 11:31:47  	Total write thread file time: 6760764
+08.16.01 11:31:47  	Total write thread zlib time: 2643612
+08.16.01 11:31:47  	Total write thread blocked time: 884519
+08.16.01 11:31:47  	Total copying time: 10619725
+08.16.01 11:31:47  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 11:32:28  system nickname set to 'Noodle'
+08.16.01 11:32:39  Timing for copying last cache file:
+08.16.01 11:32:39  	Total read thread file time: 9950285
+08.16.01 11:32:39  	Total read thread blocked time: 18579742
+08.16.01 11:32:39  	Total write thread file time: 17520573
+08.16.01 11:32:39  	Total write thread zlib time: 4050936
+08.16.01 11:32:39  	Total write thread blocked time: 237512
+08.16.01 11:32:39  	Total copying time: 67784272
+08.16.01 11:33:00  ### ERROR too many transparent geometry groups
+
+
+08.16.01 11:53:47  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 11:53:47  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 11:53:48  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 11:56:33  waiting for asynchronous player profile writes to finish...
+08.16.01 11:56:37  closing widget 'player_profile_edit_screen' because no saved game file is being edited
+08.16.01 11:56:37  not currently editing a player profile
+08.16.01 11:56:56  waiting for asynchronous player profile writes to finish...
+08.16.01 11:57:52  waiting for asynchronous player profile writes to finish...
+08.16.01 11:57:52  XCreateSaveGame() failed in synchronize_metadata_display_name_with_profile_name() (maybe the name is already in use?)
+08.16.01 11:58:22  Timing for copying last cache file:
+08.16.01 11:58:22  	Total read thread file time: 72072159
+08.16.01 11:58:22  	Total read thread blocked time: 27091779
+08.16.01 11:58:22  	Total write thread file time: 79523309
+08.16.01 11:58:22  	Total write thread zlib time: 21461389
+08.16.01 11:58:22  	Total write thread blocked time: 667712
+08.16.01 11:58:22  	Total copying time: 102771734
+08.16.01 11:58:23  WARNING: object_create - an object with this name already exists
+08.16.01 12:01:30  ### ERROR too many transparent geometry groups
+08.16.01 12:01:30  ### ERROR too many dynamic triangles requested from rasterizer
+08.16.01 12:01:30  unable to allocate dynamic structure triangles.
+08.16.01 12:01:31  ### ERROR too many dynamic vertices requested from rasterizer
+08.16.01 12:01:31  build_sprite failed to allocate dynamic vertices
+08.16.01 12:01:55  WARNING: object_create - an object with this name already exists
+08.16.01 12:03:49  WARNING: object_create - an object with this name already exists
+08.16.01 12:03:49  WARNING: object_create - an object with this name already exists
+08.16.01 12:03:49  wrong structure bsp, cannot execute command list keyes_face_display
+08.16.01 12:04:04  wrong structure bsp, cannot execute command list cortana_look_display
+08.16.01 12:18:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:19:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:20:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:21:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:23:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:24:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:25:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:26:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:28:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:29:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:30:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:31:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:33:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:34:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:35:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:36:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:38:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:39:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:40:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:41:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:43:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:44:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:45:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:46:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:48:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:49:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:50:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:51:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:53:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:54:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:55:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:56:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:58:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 12:59:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:00:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:01:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:03:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:04:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:05:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:06:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:08:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:09:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:10:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:11:46  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:13:01  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:14:16  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:15:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:16:51  WARNING: object_create - an object with this name already exists
+08.16.01 13:21:36  WARNING: object_create - an object with this name already exists
+08.16.01 13:23:07  WARNING: object_create - an object with this name already exists
+08.16.01 13:23:07  WARNING: object_create - an object with this name already exists
+08.16.01 13:23:07  wrong structure bsp, cannot execute command list keyes_face_display
+
+
+08.16.01 13:51:12  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 13:51:12  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 13:51:13  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:52:33  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:53:48  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:55:03  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 13:57:23  XCreateSaveGame() failed in synchronize_metadata_display_name_with_profile_name() (maybe the name is already in use?)
+08.16.01 13:58:59  waiting for asynchronous player profile writes to finish...
+08.16.01 13:58:59  XCreateSaveGame() failed in synchronize_metadata_display_name_with_profile_name() (maybe the name is already in use?)
+08.16.01 13:59:31  Timing for copying last cache file:
+08.16.01 13:59:31  	Total read thread file time: 59386218
+08.16.01 13:59:31  	Total read thread blocked time: 19172237
+08.16.01 13:59:31  	Total write thread file time: 63255761
+08.16.01 13:59:31  	Total write thread zlib time: 16021247
+08.16.01 13:59:31  	Total write thread blocked time: 679578
+08.16.01 13:59:31  	Total copying time: 81056336
+
+
+08.16.01 14:00:09  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 14:00:09  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 14:00:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:12:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:13:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:15:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:16:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:17:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:18:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:20:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:21:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:22:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:23:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:25:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:26:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:27:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:28:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:30:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:31:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:32:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:33:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 14:35:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+
+
+08.16.01 14:59:03  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 14:59:03  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 14:59:04  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 15:00:08  Timing for copying last cache file:
+08.16.01 15:00:08  	Total read thread file time: 10298330
+08.16.01 15:00:09  	Total read thread blocked time: 19523658
+08.16.01 15:00:09  	Total write thread file time: 18145145
+08.16.01 15:00:09  	Total write thread zlib time: 3951379
+08.16.01 15:00:09  	Total write thread blocked time: 1139
+08.16.01 15:00:09  	Total copying time: 59054283
+08.16.01 15:18:02  no network game server
+08.16.01 15:20:24  Timing for copying last cache file:
+08.16.01 15:20:24  	Total read thread file time: 10422247
+08.16.01 15:20:24  	Total read thread blocked time: 19166890
+08.16.01 15:20:24  	Total write thread file time: 18270436
+08.16.01 15:20:24  	Total write thread zlib time: 4281087
+08.16.01 15:20:24  	Total write thread blocked time: 197293
+08.16.01 15:20:24  	Total copying time: 208891976
+08.16.01 15:22:11  ### ERROR too many transparent geometry groups
+08.16.01 15:28:49  no network game server
+08.16.01 15:31:22  Timing for copying last cache file:
+08.16.01 15:31:22  	Total read thread file time: 11607962
+08.16.01 15:31:22  	Total read thread blocked time: 19867212
+08.16.01 15:31:22  	Total write thread file time: 20220299
+08.16.01 15:31:22  	Total write thread zlib time: 4232201
+08.16.01 15:31:22  	Total write thread blocked time: 347236
+08.16.01 15:31:22  	Total copying time: 75239820
+
+
+08.16.01 16:12:36  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 16:12:36  xbox ethernet link is connected at 100 Mbps in half-duplex mode
+08.16.01 16:12:37  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 16:13:39  waiting for asynchronous player profile writes to finish...
+08.16.01 16:14:10  Timing for copying last cache file:
+08.16.01 16:14:10  	Total read thread file time: 73717767
+08.16.01 16:14:10  	Total read thread blocked time: 27084953
+08.16.01 16:14:10  	Total write thread file time: 80271589
+08.16.01 16:14:10  	Total write thread zlib time: 21425145
+08.16.01 16:14:10  	Total write thread blocked time: 1564506
+08.16.01 16:14:10  	Total copying time: 104458793
+08.16.01 16:14:11  WARNING: object_create - an object with this name already exists
+08.16.01 16:15:50  WARNING: object_create - an object with this name already exists
+08.16.01 16:15:50  WARNING: object_create - an object with this name already exists
+08.16.01 16:15:50  WARNING: object_create - an object with this name already exists
+08.16.01 16:15:50  WARNING: object_create - an object with this name already exists
+08.16.01 16:18:24  ### ERROR too many transparent geometry groups
+08.16.01 16:18:24  ### ERROR too many dynamic triangles requested from rasterizer
+08.16.01 16:18:24  unable to allocate dynamic structure triangles.
+08.16.01 16:18:24  ### ERROR too many dynamic vertices requested from rasterizer
+08.16.01 16:18:24  build_sprite failed to allocate dynamic vertices
+08.16.01 16:18:55  WARNING: object_create - an object with this name already exists
+08.16.01 16:20:29  WARNING: object_create - an object with this name already exists
+08.16.01 16:20:29  WARNING: object_create - an object with this name already exists
+08.16.01 16:20:29  wrong structure bsp, cannot execute command list keyes_face_display
+08.16.01 16:20:44  wrong structure bsp, cannot execute command list cortana_look_display
+08.16.01 16:21:03  wrong structure bsp, cannot execute command list cortana_look_display
+08.16.01 16:21:24  wrong structure bsp, cannot execute command list keyes_look_display
+08.16.01 16:21:35  wrong structure bsp, cannot execute command list keyes_face_display
+08.16.01 16:22:26  WARNING: object_create - an object with this name already exists
+08.16.01 16:22:57  WARNING: object_create - an object with this name already exists
+08.16.01 16:23:08  WARNING: object_create - an object with this name already exists
+
+
+08.16.01 17:19:07  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.16.01 17:19:07  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+08.16.01 17:19:10  Timing for copying last cache file:
+08.16.01 17:19:10  	Total read thread file time: 4233239
+08.16.01 17:19:10  	Total read thread blocked time: 3692843
+08.16.01 17:19:10  	Total write thread file time: 6758548
+08.16.01 17:19:10  	Total write thread zlib time: 2650495
+08.16.01 17:19:10  	Total write thread blocked time: 916658
+08.16.01 17:19:10  	Total copying time: 10745020
+08.16.01 17:19:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.16.01 17:19:23  waiting for asynchronous player profile writes to finish...
+08.16.01 17:19:54  Timing for copying last cache file:
+08.16.01 17:19:54  	Total read thread file time: 71673013
+08.16.01 17:19:54  	Total read thread blocked time: 27152973
+08.16.01 17:19:54  	Total write thread file time: 79984864
+08.16.01 17:19:54  	Total write thread zlib time: 21459854
+08.16.01 17:19:54  	Total write thread blocked time: 937847
+08.16.01 17:19:54  	Total copying time: 102428287
+08.16.01 17:19:55  WARNING: object_create - an object with this name already exists
+08.16.01 17:23:31  ### ERROR too many transparent geometry groups
+08.16.01 17:23:31  ### ERROR too many dynamic triangles requested from rasterizer
+08.16.01 17:23:31  unable to allocate dynamic structure triangles.
+08.16.01 17:23:31  ### ERROR too many dynamic vertices requested from rasterizer
+08.16.01 17:23:31  build_sprite failed to allocate dynamic vertices
+08.16.01 17:24:32  WARNING: object_create - an object with this name already exists
+08.16.01 17:27:10  WARNING: object_create - an object with this name already exists
+08.16.01 17:27:10  WARNING: object_create - an object with this name already exists
+08.16.01 17:27:10  wrong structure bsp, cannot execute command list keyes_face_display
+08.16.01 17:27:26  wrong structure bsp, cannot execute command list cortana_look_display
+08.16.01 17:27:44  wrong structure bsp, cannot execute command list cortana_look_display
+08.16.01 17:28:06  wrong structure bsp, cannot execute command list keyes_look_display
+08.16.01 17:28:16  wrong structure bsp, cannot execute command list keyes_face_display
+
+
+08.17.01 18:48:43  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.17.01 18:48:43  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+08.17.01 18:48:43  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 18:50:09  event handler function failed for widget 'server_list'
+08.17.01 18:50:10  system nickname set to 'Disco'
+08.17.01 18:50:28  Timing for copying last cache file:
+08.17.01 18:50:28  	Total read thread file time: 11743034
+08.17.01 18:50:28  	Total read thread blocked time: 4475153
+08.17.01 18:50:28  	Total write thread file time: 13448825
+08.17.01 18:50:28  	Total write thread zlib time: 4178590
+08.17.01 18:50:28  	Total write thread blocked time: 743816
+08.17.01 18:50:28  	Total copying time: 18990198
+08.17.01 19:03:40  the game host went down
+08.17.01 19:04:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:06:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:07:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:08:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:09:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:11:10  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:12:25  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:13:40  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:15:19  event handler function failed for widget 'server_list'
+08.17.01 19:15:26  Timing for copying last cache file:
+08.17.01 19:15:26  	Total read thread file time: 8063030
+08.17.01 19:15:26  	Total read thread blocked time: 13847970
+08.17.01 19:15:26  	Total write thread file time: 13909148
+08.17.01 19:15:26  	Total write thread zlib time: 2985308
+08.17.01 19:15:26  	Total write thread blocked time: 337730
+08.17.01 19:15:26  	Total copying time: 21758856
+08.17.01 19:15:26  waiting for precaching to terminate
+08.17.01 19:15:26  precaching terminated
+08.17.01 19:17:35  Timing for copying last cache file:
+08.17.01 19:17:35  	Total read thread file time: 10720874
+08.17.01 19:17:35  	Total read thread blocked time: 19477310
+08.17.01 19:17:35  	Total write thread file time: 19443978
+08.17.01 19:17:35  	Total write thread zlib time: 4159757
+08.17.01 19:17:35  	Total write thread blocked time: 232542
+08.17.01 19:17:35  	Total copying time: 434580350
+08.17.01 19:17:35  NETGAME MAP FAILURE: failed to find enough spawn points for race 0/4
+08.17.01 19:17:41  ### ERROR too many lens flares submitted to frame
+08.17.01 19:20:36  closing widget 'player_profile_edit_screen' because no saved game file is being edited
+08.17.01 19:20:36  not currently editing a player profile
+08.17.01 19:20:56  event handler function failed for widget 'server_list'
+08.17.01 19:21:35  client reliable connection lost
+08.17.01 19:21:43  failed to remove a client endpoint from the server's endpoint set (maybe it was already removed)
+08.17.01 19:21:58  client reliable connection lost
+08.17.01 19:22:11  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:22:11  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:22:41  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:22:41  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:22:54  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:22:54  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:07  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:18  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:18  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:31  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:31  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:23:50  client call to write_endpoint() returned error '_transport_error_connection_lost'
+08.17.01 19:24:22  event handler function failed for widget 'server_list'
+08.17.01 19:24:32  event handler function failed for widget 'server_list'
+08.17.01 19:24:32  not attempting to start a new server; there are other servers available
+08.17.01 19:24:32  event handler function failed for widget 'server_list'
+08.17.01 19:24:45  event handler function failed for widget 'server_list'
+08.17.01 19:25:10  Timing for copying last cache file:
+08.17.01 19:25:10  	Total read thread file time: 10340162
+08.17.01 19:25:10  	Total read thread blocked time: 5070682
+08.17.01 19:25:10  	Total write thread file time: 12617806
+08.17.01 19:25:10  	Total write thread zlib time: 4199707
+08.17.01 19:25:10  	Total write thread blocked time: 807578
+08.17.01 19:25:10  	Total copying time: 17711213
+08.17.01 19:26:12  client reliable connection lost
+08.17.01 19:26:12  the game host went down
+
+
+08.17.01 19:28:57  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.17.01 19:28:57  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+08.17.01 19:28:57  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+
+
+08.17.01 19:29:55  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.17.01 19:29:55  global symbol fixup: 3ef400
+08.17.01 19:29:56  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+08.17.01 19:29:57  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.17.01 19:30:46  sent out a broadcast game search packet
+08.17.01 19:30:46  searching for a network game ...
+08.17.01 19:30:46  there is an open XBox net game with 0 players and 1 machines
+08.17.01 19:30:49  attempting to connect to game @ 0.202.157.0:5150
+08.17.01 19:30:49  Printing stuff for Mat's edification
+08.17.01 19:30:49  5101CEA2 <unknown>
+08.17.01 19:30:49  00174460 _main + 0000 : shell_xbox.obj
+08.17.01 19:30:49  000EC890 _main_loop + 0000 : main.obj
+08.17.01 19:30:49  000D6540 _process_ui_widgets + 0000 : ui_widget.obj
+08.17.01 19:30:49  000D6020 _widget_instance_process_one_event_recursive + 0000 : ui_widget.obj
+08.17.01 19:30:49  000D6020 _widget_instance_process_one_event_recursive + 0000 : ui_widget.obj
+08.17.01 19:30:49  000D4B00 _event_handler_dispatch + 0000 : ui_widget.obj
+08.17.01 19:30:49  000D6710 _ui_widget_event_handler_function_invoke + 0000 : ui_widget_event_handler_functions.obj
+08.17.01 19:30:49  003A81D9 _render + 8299 : <common>
+08.17.01 19:30:49  000858A0 _display_assert + 0000 : cseries.obj
+08.17.01 19:30:49  00088F50 _stack_walk + 0000 : stack_walk_windows.obj
+08.17.01 19:30:49  000885E0 _stack_walk_with_context + 0000 : stack_walk_windows.obj
+08.17.01 19:30:49  Ignore above if you're not Mat
+08.17.01 19:30:49  80027698 <unknown>
+08.17.01 19:30:49  001AF20A _mainXapiStartup@4 + 005C : xapilib:xapi0.obj
+08.17.01 19:30:49  001744AA _main + 004A : shell_xbox.obj
+08.17.01 19:30:49  000ECBF6 _main_loop + 0366 : main.obj
+08.17.01 19:30:49  000D665C _process_ui_widgets + 011C : ui_widget.obj
+08.17.01 19:30:49  000D64DB _widget_instance_process_one_event_recursive + 04BB : ui_widget.obj
+08.17.01 19:30:49  000D63E2 _widget_instance_process_one_event_recursive + 03C2 : ui_widget.obj
+08.17.01 19:30:49  000D4B5B _event_handler_dispatch + 005B : ui_widget.obj
+08.17.01 19:30:49  000D6759 _ui_widget_event_handler_function_invoke + 0049 : ui_widget_event_handler_functions.obj
+08.17.01 19:30:49  000DC767 _start_network_game_if_no_advertised_servers + 0027 : ui_widget_event_handler_functions.obj
+08.17.01 19:30:49  000858B2 _display_assert + 0012 : cseries.obj
+08.17.01 19:30:49  00088F61 _stack_walk + 0011 : stack_walk_windows.obj
+08.17.01 19:30:49  EXCEPTION halt in c:\halo\SOURCE\interface\ui_widget_event_handler_functions.c,#3926: expected a column list for server list
+
+
+08.17.01 19:31:31  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.17.01 19:31:31  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+08.17.01 19:31:31  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+
+
+08.12.04 20:43:40  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.12.04 20:43:40  xbox ethernet link is not connected
+08.12.04 20:43:41  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.12.04 20:44:02  waiting for asynchronous player profile writes to finish...
+08.12.04 20:44:03  WARNING: object_create - an object with this name already exists
+08.12.04 20:47:19  ### ERROR too many transparent geometry groups
+08.12.04 20:47:20  ### ERROR too many dynamic triangles requested from rasterizer
+08.12.04 20:47:20  unable to allocate dynamic structure triangles.
+08.12.04 20:47:20  ### ERROR too many dynamic vertices requested from rasterizer
+08.12.04 20:47:20  build_sprite failed to allocate dynamic vertices
+08.12.04 20:47:30  WARNING: object_create - an object with this name already exists
+08.12.04 20:48:57  WARNING: object_create - an object with this name already exists
+08.12.04 20:48:57  WARNING: object_create - an object with this name already exists
+08.12.04 20:48:57  wrong structure bsp, cannot execute command list keyes_face_display
+08.12.04 21:06:50  waiting for asynchronous player profile writes to finish...
+08.12.04 21:06:54  closing widget 'player_profile_edit_screen' because no saved game file is being edited
+08.12.04 21:06:54  not currently editing a player profile
+
+
+08.13.04 00:17:38  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+08.13.04 00:17:38  xbox ethernet link is not connected
+08.13.04 00:17:39  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+08.13.04 00:17:51  WARNING: object_create - an object with this name already exists
+08.13.04 00:18:06  ### ERROR too many transparent geometry groups
+08.13.04 00:18:07  ### ERROR too many dynamic vertices requested from rasterizer
+08.13.04 00:18:07  build_sprite failed to allocate dynamic vertices
+08.13.04 00:18:17  WARNING: object_create - an object with this name already exists
+08.13.04 00:19:08  WARNING: object_create - an object with this name already exists
+08.13.04 00:19:08  WARNING: object_create - an object with this name already exists
+08.13.04 00:19:08  wrong structure bsp, cannot execute command list keyes_face_display
+08.13.04 00:19:23  wrong structure bsp, cannot execute command list cortana_look_display
+08.13.04 00:19:42  wrong structure bsp, cannot execute command list cortana_look_display
+08.13.04 00:20:04  wrong structure bsp, cannot execute command list keyes_look_display
+08.13.04 00:20:14  wrong structure bsp, cannot execute command list keyes_face_display
+08.13.04 00:21:05  WARNING: object_create - an object with this name already exists
+08.13.04 00:21:37  WARNING: object_create - an object with this name already exists
+08.13.04 00:21:47  WARNING: object_create - an object with this name already exists
+
+
+07.14.04 18:29:17  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+07.14.04 18:29:17  global symbol fixup: 3ef400
+07.14.04 18:29:18  xbox ethernet link is not connected
+07.14.04 18:29:19  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+07.14.04 18:29:30  WARNING: object_create - an object with this name already exists
+07.14.04 18:32:50  ### ERROR too many transparent geometry groups
+07.14.04 18:32:50  ### ERROR too many dynamic triangles requested from rasterizer
+07.14.04 18:32:50  unable to allocate dynamic structure triangles.
+07.14.04 18:32:50  ### ERROR too many dynamic vertices requested from rasterizer
+07.14.04 18:32:50  build_sprite failed to allocate dynamic vertices
+07.14.04 18:32:51  WARNING: object_create - an object with this name already exists
+07.14.04 18:33:48  WARNING: object_create - an object with this name already exists
+07.14.04 18:33:48  WARNING: object_create - an object with this name already exists
+07.14.04 18:33:48  wrong structure bsp, cannot execute command list keyes_face_display
+07.14.04 18:33:50  WARNING: object melee_door_2 created at a starting location outside the map
+
+
+11.08.01 00:00:54  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 00:00:54  xbox ethernet link is not connected
+11.08.01 00:00:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 00:01:04  waiting for asynchronous player profile writes to finish...
+11.08.01 00:01:05  WARNING: object_create - an object with this name already exists
+11.08.01 00:02:12  WARNING: object_create - an object with this name already exists
+11.08.01 00:02:12  WARNING: object_create - an object with this name already exists
+11.08.01 00:02:12  WARNING: object_create - an object with this name already exists
+11.08.01 00:02:12  WARNING: object_create - an object with this name already exists
+11.08.01 00:04:32  ### ERROR too many transparent geometry groups
+11.08.01 00:04:33  ### ERROR too many dynamic triangles requested from rasterizer
+11.08.01 00:04:33  unable to allocate dynamic structure triangles.
+11.08.01 00:04:33  ### ERROR too many dynamic vertices requested from rasterizer
+11.08.01 00:04:33  build_sprite failed to allocate dynamic vertices
+11.08.01 00:04:40  WARNING: object_create - an object with this name already exists
+11.08.01 00:05:41  WARNING: object_create - an object with this name already exists
+11.08.01 00:05:41  WARNING: object_create - an object with this name already exists
+11.08.01 00:05:41  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:05:56  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:06:15  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:06:36  wrong structure bsp, cannot execute command list keyes_look_display
+11.08.01 00:06:47  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:07:38  WARNING: object_create - an object with this name already exists
+11.08.01 00:08:09  WARNING: object_create - an object with this name already exists
+11.08.01 00:08:20  WARNING: object_create - an object with this name already exists
+
+
+11.08.01 00:01:53  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 00:01:53  global symbol fixup: 3ef400
+11.08.01 00:01:54  xbox ethernet link is not connected
+11.08.01 00:01:55  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 00:02:18  WARNING: object_create - an object with this name already exists
+11.08.01 00:06:00  ### ERROR too many transparent geometry groups
+11.08.01 00:06:01  ### ERROR too many dynamic triangles requested from rasterizer
+11.08.01 00:06:01  unable to allocate dynamic structure triangles.
+11.08.01 00:06:01  ### ERROR too many dynamic vertices requested from rasterizer
+11.08.01 00:06:01  build_sprite failed to allocate dynamic vertices
+11.08.01 00:06:13  WARNING: object_create - an object with this name already exists
+11.08.01 00:07:22  WARNING: object_create - an object with this name already exists
+11.08.01 00:07:22  WARNING: object_create - an object with this name already exists
+11.08.01 00:07:22  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:07:38  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:07:56  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:08:18  wrong structure bsp, cannot execute command list keyes_look_display
+11.08.01 00:08:28  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:09:20  WARNING: object_create - an object with this name already exists
+11.08.01 00:09:50  encounterless captain (keyes): command list look_at_cortana is stuck looping (aborting on loop #1)
+11.08.01 00:09:51  encounterless cyborg (chief): command list look_at_cortana is stuck looping (aborting on loop #1)
+11.08.01 00:09:51  WARNING: object_create - an object with this name already exists
+11.08.01 00:10:01  WARNING: object_create - an object with this name already exists
+11.08.01 00:10:02  WARNING: object melee_door_2 created at a starting location outside the map
+11.08.01 00:12:05  Printing stuff for Mat's edification
+11.08.01 00:12:05  5101CEA2 <unknown>
+11.08.01 00:12:05  00174460 _main + 0000 : shell_xbox.obj
+11.08.01 00:12:05  000EC890 _main_loop + 0000 : main.obj
+11.08.01 00:12:05  000A9E70 _game_time_update + 0000 : game_time.obj
+11.08.01 00:12:05  0009D450 _game_tick + 0000 : game.obj
+11.08.01 00:12:05  0003A7A0 _actors_update + 0000 : actors.obj
+11.08.01 00:12:05  000374F0 _actor_decision_loop + 0000 : actors.obj
+11.08.01 00:12:05  00036010 _actor_type_decide_action + 0000 : actor_types.obj
+11.08.01 00:12:05  145A5FB4 <unknown>
+11.08.01 00:12:05  0001ABF0 _actor_action_handle_panic_from_burning_to_death + 0000 : actions.obj
+11.08.01 00:12:05  0005CDC0 _prop_get_active_by_unit_index + 0000 : props.obj
+11.08.01 00:12:05  001245B0 _object_get_and_verify_type + 0000 : objects.obj
+11.08.01 00:12:05  000858A0 _display_assert + 0000 : cseries.obj
+11.08.01 00:12:05  00088F50 _stack_walk + 0000 : stack_walk_windows.obj
+11.08.01 00:12:05  000885E0 _stack_walk_with_context + 0000 : stack_walk_windows.obj
+11.08.01 00:12:05  Ignore above if you're not Mat
+11.08.01 00:12:05  80027698 <unknown>
+11.08.01 00:12:05  001AF20A _mainXapiStartup@4 + 005C : xapilib:xapi0.obj
+11.08.01 00:12:05  001744AA _main + 004A : shell_xbox.obj
+11.08.01 00:12:05  000ECCEF _main_loop + 045F : main.obj
+11.08.01 00:12:05  000AA145 _game_time_update + 02D5 : game_time.obj
+11.08.01 00:12:05  0003A954 _ai_update + 0044 : ai.obj
+11.08.01 00:12:05  00039F1E _actor_update + 00BE : actors.obj
+11.08.01 00:12:05  0003755A _actor_decision_loop + 006A : actors.obj
+11.08.01 00:12:05  0003605D _actor_type_decide_action + 004D : actor_types.obj
+11.08.01 00:12:05  00034110 _grunt_decide_action + 0070 : actor_type_grunt.obj
+11.08.01 00:12:05  0001AC3E _actor_action_handle_panic_from_burning_to_death + 004E : actions.obj
+11.08.01 00:12:05  0005CDD1 _prop_get_active_by_unit_index + 0011 : props.obj
+11.08.01 00:12:05  00124602 _object_get_and_verify_type + 0052 : objects.obj
+11.08.01 00:12:05  000858B2 _display_assert + 0012 : cseries.obj
+11.08.01 00:12:05  00088F61 _stack_walk + 0011 : stack_walk_windows.obj
+11.08.01 00:12:05  EXCEPTION halt in c:\halo\SOURCE\objects\objects.c,#1573: got an object type we didn't expect (expected one of 0x00000003 but got #6).
+
+
+11.08.01 00:39:36  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 00:39:36  xbox ethernet link is not connected
+11.08.01 00:39:37  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 00:39:49  waiting for asynchronous player profile writes to finish...
+11.08.01 00:39:50  WARNING: object_create - an object with this name already exists
+
+
+11.08.01 04:10:37  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 04:10:37  global symbol fixup: 3ef400
+11.08.01 04:10:38  xbox ethernet link is not connected
+11.08.01 04:10:39  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 04:10:50  ### DEBUG unlocking all solo levels for newly created profile
+11.08.01 04:10:56  waiting for asynchronous player profile writes to finish...
+11.08.01 04:10:57  WARNING: object_create - an object with this name already exists
+
+
+11.08.01 04:37:56  halo xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 04:37:56  xbox ethernet link is not connected
+11.08.01 04:37:57  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 04:38:04  waiting for asynchronous player profile writes to finish...
+11.08.01 04:38:05  WARNING: object_create - an object with this name already exists
+11.08.01 04:44:10  ### ERROR too many transparent geometry groups
+11.08.01 04:44:11  ### ERROR too many dynamic triangles requested from rasterizer
+11.08.01 04:44:11  unable to allocate dynamic structure triangles.
+11.08.01 04:44:11  ### ERROR too many dynamic vertices requested from rasterizer
+11.08.01 04:44:11  build_sprite failed to allocate dynamic vertices
+11.08.01 04:44:26  WARNING: object_create - an object with this name already exists
+11.08.01 04:46:09  WARNING: object_create - an object with this name already exists
+11.08.01 04:46:09  WARNING: object_create - an object with this name already exists
+11.08.01 04:46:09  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 04:46:24  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 04:46:43  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 04:47:04  wrong structure bsp, cannot execute command list keyes_look_display
+11.08.01 04:47:15  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 04:48:06  WARNING: object_create - an object with this name already exists
+11.08.01 04:48:38  WARNING: object_create - an object with this name already exists
+11.08.01 04:48:48  WARNING: object_create - an object with this name already exists
+
+
+11.08.01 00:23:05  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 00:23:05  global symbol fixup: 3ef400
+11.08.01 00:23:06  xbox ethernet link is connected at 100 Mbps in full-duplex mode
+11.08.01 00:23:07  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 00:24:22  ### DEBUG unlocking all solo levels for newly created profile
+11.08.01 00:24:42  WARNING: object_create - an object with this name already exists
+11.08.01 00:28:04  ### ERROR too many transparent geometry groups
+11.08.01 00:28:04  ### ERROR too many dynamic triangles requested from rasterizer
+11.08.01 00:28:04  unable to allocate dynamic structure triangles.
+11.08.01 00:28:05  ### ERROR too many dynamic vertices requested from rasterizer
+11.08.01 00:28:05  build_sprite failed to allocate dynamic vertices
+11.08.01 00:28:16  WARNING: object_create - an object with this name already exists
+11.08.01 00:30:06  WARNING: object_create - an object with this name already exists
+11.08.01 00:30:06  WARNING: object_create - an object with this name already exists
+11.08.01 00:30:06  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:30:21  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:30:40  wrong structure bsp, cannot execute command list cortana_look_display
+11.08.01 00:31:02  wrong structure bsp, cannot execute command list keyes_look_display
+11.08.01 00:31:12  wrong structure bsp, cannot execute command list keyes_face_display
+11.08.01 00:32:03  WARNING: object_create - an object with this name already exists
+11.08.01 00:32:26  WARNING: object melee_door_2 created at a starting location outside the map
+
+
+11.08.01 00:00:28  halobeta xbox 01.08.15.1749(CACHE) ----------------------------------------------
+11.08.01 00:00:28  global symbol fixup: 3ef400
+11.08.01 00:00:29  xbox ethernet link is not connected
+11.08.01 00:00:30  ### ERROR failed to open bink file 'd:\bink\intro.bik'
+11.08.01 00:01:53  setting up a net game
+11.08.01 00:01:53  opening game
+11.08.01 00:01:53  attempting to connect to game @ 
+11.08.01 00:01:53  joining a network game ...
+11.08.01 00:01:53  new remote connection accepted from 127.0.0.1:1024
+11.08.01 00:01:53  new client connected from ip 127.0.0.1:1024 (validation pending)
+11.08.01 00:01:53  server added machine @ 127.0.0.1:1024 to the game at machine index #0
+11.08.01 00:01:53  successfully joined a net game; our machine is #0
+11.08.01 00:01:53  received updated game settings from the server; there are 0 players on 1 machines in the game
+11.08.01 00:01:53  player count 0 machine count 1
+11.08.01 00:01:53  waiting for game to start ...
+11.08.01 00:01:53  server updated machine #0 settings
+11.08.01 00:01:53  server received machine settings for machine #0/'Disco'
+11.08.01 00:01:53  requesting a player addition (controller index #0)
+11.08.01 00:01:53  received updated game settings from the server; there are 0 players on 1 machines in the game
+11.08.01 00:01:53  player count 0 machine count 1
+11.08.01 00:01:53  server added player from machine #0 at controller index #0 to the game
+11.08.01 00:01:53  received updated game settings from the server; there are 1 players on 1 machines in the game
+11.08.01 00:01:53  player count 1 machine count 1
+11.08.01 00:02:14  closing game
+11.08.01 00:02:14  signalling client machines to begin loading for network game
+11.08.01 00:02:14  received updated game settings from the server; there are 1 players on 1 machines in the game
+11.08.01 00:02:14  player count 1 machine count 1
+11.08.01 00:02:14  Timing for copying last cache file:
+11.08.01 00:02:14  	Total read thread file time: 10040804
+11.08.01 00:02:14  	Total read thread blocked time: 20234608
+11.08.01 00:02:14  	Total write thread file time: 18762203
+11.08.01 00:02:14  	Total write thread zlib time: 4182513
+11.08.01 00:02:14  	Total write thread blocked time: 26385
+11.08.01 00:02:14  	Total copying time: 110021761
+11.08.01 00:02:14  memory check failed at scenario_load, difference between min and max memory free is 77824
+11.08.01 00:02:14  NETGAME MAP FAILURE: missing hill flag [team 1]
+11.08.01 00:02:14  local machine is loaded & ready to play
+11.08.01 00:02:14  client signalled to begin loading for network game
+11.08.01 00:02:14  all machines have successfully loaded
+11.08.01 00:02:24  requesting a player removal (controller index #0)
+11.08.01 00:02:24  player removed from game and sent to heaven
+11.08.01 00:02:24  no local players remain in the game, exiting the game now
+11.08.01 00:02:24  memory check failed at scenario_load, difference between min and max memory free is 77824
+11.08.01 00:02:24  network client disposed
+11.08.01 00:02:24  network server disposed
+11.08.01 00:02:24  no network game server
+11.08.01 00:02:40  setting up a net game
+11.08.01 00:02:40  opening game
+11.08.01 00:02:41  attempting to connect to game @ 
+11.08.01 00:02:41  joining a network game ...
+11.08.01 00:02:41  new remote connection accepted from 127.0.0.1:1025
+11.08.01 00:02:41  new client connected from ip 127.0.0.1:1025 (validation pending)
+11.08.01 00:02:41  server added machine @ 127.0.0.1:1025 to the game at machine index #0
+11.08.01 00:02:41  successfully joined a net game; our machine is #0
+11.08.01 00:02:41  received updated game settings from the server; there are 0 players on 1 machines in the game
+11.08.01 00:02:41  player count 0 machine count 1
+11.08.01 00:02:41  waiting for game to start ...
+11.08.01 00:02:41  server updated machine #0 settings
+11.08.01 00:02:41  server received machine settings for machine #0/'Disco'
+11.08.01 00:02:41  requesting a player addition (controller index #0)
+11.08.01 00:02:41  received updated game settings from the server; there are 0 players on 1 machines in the game
+11.08.01 00:02:41  player count 0 machine count 1
+11.08.01 00:02:41  server added player from machine #0 at controller index #0 to the game
+11.08.01 00:02:41  received updated game settings from the server; there are 1 players on 1 machines in the game
+11.08.01 00:02:41  player count 1 machine count 1
+11.08.01 00:02:47  closing game
+11.08.01 00:02:47  signalling client machines to begin loading for network game
+11.08.01 00:02:47  received updated game settings from the server; there are 1 players on 1 machines in the game
+11.08.01 00:02:47  player count 1 machine count 1
+11.08.01 00:02:47  memory check failed at scenario_load, difference between min and max memory free is 77824
+11.08.01 00:02:47  NETGAME MAP FAILURE: missing hill flag [team 1]
+11.08.01 00:02:47  local machine is loaded & ready to play
+11.08.01 00:02:47  client signalled to begin loading for network game
+11.08.01 00:02:47  all machines have successfully loaded
